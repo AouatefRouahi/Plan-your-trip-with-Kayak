@@ -81,17 +81,3 @@ Marketing team wants to focus first on the best cities to travel to in France. A
 "Bayonne",
 "La Rochelle"]
 ```
-
-
-```python
-!jupyter nbconvert --ClearMetadataPreprocessor.enabled=True --ClearOutput.enabled=True --to markdown README.ipynb
-```
-
-    [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 5748 bytes to README.md
-    
-
-
-```python
-
-```
